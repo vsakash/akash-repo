@@ -1,0 +1,13 @@
+1) AWS - Completed 
+2) Azure - Started 
+3) Bash scripting 
+4) Docker 
+5) Kubernetes
+6) Chef puppet 
+7) Ansible
+8) Jenkins
+9) Linux OS
+10) Web servers 
+
+
+deadline August today's date 23-04-2020 , deadline is 23-08-2020
